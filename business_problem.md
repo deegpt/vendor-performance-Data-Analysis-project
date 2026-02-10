@@ -1,5 +1,5 @@
 ## Business Problem
----
+
 Effective inventory and sales management are critical for for optimizing profitability in the retail and wholesale industry. Companies need to ensure that they are not incurring losses 
 due to inefficient pricing, poor inventory turnover or vendor dependency. 
 The goal of this analysis is to:
@@ -8,3 +8,5 @@ The goal of this analysis is to:
 - Analyze the impact of bulk purchasing on unit costs.
 - Assess inventory turnover to reduce holding costs and improve efficiency.
 - Investigate the profitability variance between high-performing and low-peforming vendors.
+
+---
