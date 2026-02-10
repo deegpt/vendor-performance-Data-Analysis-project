@@ -1,5 +1,14 @@
 ### Data Ingestion
 
-SQLite has been used to ingest data from CSV files to the database as a table.
-Python scripting is used, so as to refresh the data in the DB in a scheduled timeframe and inegsted automatically.
+- SQLite has been used to ingest data from CSV files to the database as a table.
+- Python scripting is used, so as to refresh the data in the DB in a scheduled timeframe and inegsted automatically.
+
 **Things to remember:** When scripting is done, everything needs to be inside a function and logging should be added to monitor the warnings and errors in a specific step during the program execution. Logging also helps to determine the steps completed already and steps left.
+
+- Moved all the functions together in one cell and put them into a .py file which is called the 'Python Scripting'
+
+---
+
+### Exploring data
+Exlpore the ingested data into the database tables to find what type of values are there and what values and columns are releated to our business problem that needs to be extracted 
+in the final dataframe.
