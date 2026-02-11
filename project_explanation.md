@@ -10,5 +10,6 @@
 ---
 
 ### Exploring data
-Exlpore the ingested data into the database tables to find what type of values are there and what values and columns are releated to our business problem that needs to be extracted 
+- Exlpore the ingested data into the database tables to find what type of values are there and what values and columns are releated to our business problem that needs to be extracted 
 in the final dataframe.
+- As per the **business problem**, we need to analyse the **vendor performance**, **pricing strategies** and the **inventory**. Hence, we need to explore the columns related to these pointers. 
