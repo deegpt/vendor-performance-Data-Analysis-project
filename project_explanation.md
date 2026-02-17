@@ -18,6 +18,7 @@ in the final dataframe.
 - To perform the clean data ingestion in the DB, written a Python Script.
 
 > Data Filtering
+
 To enhance the reliability of the insights, we removed inconsistent data points where:
 - Gross Profit <= 0 (to exclude transactions leading to losses)
 - Profit Margin <= 0 (to ensure analysis focuses on profitable transactions)
@@ -32,9 +33,9 @@ To enhance the reliability of the insights, we removed inconsistent data points 
   **Implication:** High-margin vendors may benefit from better pricing strategies, while top-selling vendors could focus on cost efficiency.
 
   ### Final Recommendations
-  - Re-evaluate pricing for low sales, high margin brands to boost sales volume without sacrificing profitability.
-  - Diversify vendor partnerships to reduce dependency on a few suppliers and mitigate spply chain risks.
-  - Leverage bulk purchasing advantages to maintain competitive pricing whileoptimizing inventory management.
-  - Optimize slo-moving inventories by adjusting purchase quantities, arranging clearance sales or revising storage strategies.
-  - Enhance marketing and distribution strategies for low-performing vendors to drive higher sales volumes without compromising profit margins.
-  - By implementing these recommendations, the company can achieve sustainable profitability, mitigate risks and enhance overall operational efficiency. 
+- Re-evaluate pricing for low sales, high margin brands to boost sales volume without sacrificing profitability.
+- Diversify vendor partnerships to reduce dependency on a few suppliers and mitigate spply chain risks.
+- Leverage bulk purchasing advantages to maintain competitive pricing whileoptimizing inventory management.
+- Optimize slo-moving inventories by adjusting purchase quantities, arranging clearance sales or revising storage strategies.
+- Enhance marketing and distribution strategies for low-performing vendors to drive higher sales volumes without compromising profit margins.
+- By implementing these recommendations, the company can achieve sustainable profitability, mitigate risks and enhance overall operational efficiency. 
